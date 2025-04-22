@@ -21,7 +21,7 @@ We help businesses transform insights into action and action into results.
 ## 📞 Contact Us
 
 - 📧 Email: info@parthtecsolution.com
-- 📱 Phone: +91-95129XXXXX
+- 📱 Phone: +91-9512932386
 - 📍 Location: Vadodara, Gujarat, India
 
 ---
