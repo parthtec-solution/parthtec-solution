@@ -16,7 +16,7 @@ We help businesses transform insights into action and action into results.
 
 ## 🌐 Live Site
 
-👉 Visit the site: [https://yourusername.github.io/parthtec-solution](https://yourusername.github.io/parthtec-solution)
+👉 Visit the site: ([https://yourusername.github.io/parthtec-solution](https://parthtec-solution.github.io/parthtec-solution/))
 
 ## 📞 Contact Us
 
