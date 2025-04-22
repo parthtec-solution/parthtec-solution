@@ -1,16 +1,31 @@
-## Hi there 👋
+# Parthtec Solution 🌐
 
-<!--
-**parthtec-solution/parthtec-solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official website repository of **Parthtec Solution** – a growth-driven consultancy empowering businesses through **Digital Marketing**, **Business Optimization**, and **Data Analytics**.
 
-Here are some ideas to get you started:
+## 🔍 About Us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Parthtec Solution is based in Vadodara, Gujarat, and offers:
+
+- ✅ **Digital Marketing**: SEO, Google Ads, Social Media Marketing
+- ✅ **Business Optimization**: SOPs, Process Automation, CRM Integration
+- ✅ **Data Analysis**: Dashboards, BI Tools, Market & Performance Insights
+- ✅ **Website Development**: Landing Pages & Corporate Sites
+- ✅ **Google Business Profile Management**
+
+We help businesses transform insights into action and action into results.
+
+## 🌐 Live Site
+
+👉 Visit the site: [https://yourusername.github.io/parthtec-solution](https://yourusername.github.io/parthtec-solution)
+
+## 📞 Contact Us
+
+- 📧 Email: info@parthtecsolution.com
+- 📱 Phone: +91-95129XXXXX
+- 📍 Location: Vadodara, Gujarat, India
+
+---
+
+🛠️ Built with 💡 by [Parthtec Solution](https://www.parthtecsolution.com)  
+Hosted via **GitHub Pages**
+
