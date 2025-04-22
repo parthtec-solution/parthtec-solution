@@ -20,7 +20,7 @@ We help businesses transform insights into action and action into results.
 
 ## 📞 Contact Us
 
-- 📧 Email: info@parthtecsolution.com
+- 📧 Email: tarak24@gmail.com
 - 📱 Phone: +91-9512932386
 - 📍 Location: Vadodara, Gujarat, India
 
